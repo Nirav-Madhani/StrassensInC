@@ -1,5 +1,5 @@
 
-# StrassensInC
+# Implementation of Strassen's Matrix Multiplication Algorithm In C
 Implementation of Strassens Algorithm in C using pointers
 
 ## Hilights
